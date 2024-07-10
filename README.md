@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=3000&pause=1000&color=1DBF73&width=500&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmansikder&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmansikder" /> </p>
 
