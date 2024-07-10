@@ -1,8 +1,8 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Abdur Rahman Sikder</h1>
-<h3 align="center">A passionate developer and competitive programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmansikder&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmansikder" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **MongoDB, React, NodeJS, ExpressJS etc**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **MERN stack related projects**
 
-- 💬 Ask me about **Competitive programming.**
+- 💬 Ask me about **Competitive programming, Mern Stack.**
 
 - 📫 How to reach me **19cse040@gmail.com**
 
